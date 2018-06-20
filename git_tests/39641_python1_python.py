@@ -10,3 +10,5 @@ for node in hou.node("/out/").allSubChildren():
         print result
         f.write(result + "\n") 
 f.close()
+# comment
+
